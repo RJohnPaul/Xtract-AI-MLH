@@ -1,5 +1,5 @@
 # XtractAI
-![Readme-Banner.png](https://github.com/iamjohndevboy/Xtract-AI/blob/66dd40b7f05aaee1f71b57df15d128307e69c6f2/GIT%20(1).png)
+![Readme-Banner.png](https://github.com/iamjohndevboy/Xtract-AI-MLH/blob/50cb0e43741a662080629fd80b37caa4902f183b/GIT%20(1).png)
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-8A2BE2" alt="Open Source">
 </p>
